@@ -1,0 +1,6 @@
+Archive: stable
+Component: main
+Origin: smfc
+Label: smfc
+Architecture: arm64
+Description: smfc APT repository

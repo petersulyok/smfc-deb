@@ -1,0 +1,48 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: smfc
+Label: smfc
+Suite: stable
+Codename: stable
+Date: Mon, 25 May 2026 19:21:44 UTC
+Architectures: amd64 arm64
+Components: main
+Description: smfc APT repository
+MD5Sum:
+ e075a3b0af873f94be4e1553b2ac6728 695 main/binary-amd64/Packages
+ de55c28e406a532c5ed16b2efb01ef72 489 main/binary-amd64/Packages.gz
+ 5703c41b39c3bced90ea69f79bcc8baf 110 main/binary-amd64/Release
+ e075a3b0af873f94be4e1553b2ac6728 695 main/binary-arm64/Packages
+ de55c28e406a532c5ed16b2efb01ef72 489 main/binary-arm64/Packages.gz
+ 3a33eb88fb2ffe47ac2d5b83e210be23 110 main/binary-arm64/Release
+SHA1:
+ 06152ccf2e26a38fe4d86b69de98d5e35934c884 695 main/binary-amd64/Packages
+ 72e860c2d04a93474a40b4977a92d9ad2e8b6a8a 489 main/binary-amd64/Packages.gz
+ a4d68f1cd31d3a1d7c85e3a2ad7f4157cd305d86 110 main/binary-amd64/Release
+ 06152ccf2e26a38fe4d86b69de98d5e35934c884 695 main/binary-arm64/Packages
+ 72e860c2d04a93474a40b4977a92d9ad2e8b6a8a 489 main/binary-arm64/Packages.gz
+ 203ccd0a38029113905bad29e646afb6902544c2 110 main/binary-arm64/Release
+SHA256:
+ 3ac2aeda722c60f49e1563f007ed815a3e6ddf245c554e2e5000f66afb8ce694 695 main/binary-amd64/Packages
+ 593e9167a44c5838acd39d7a3f1a41d17a84c149cdb65d45b07fda622dd6e09a 489 main/binary-amd64/Packages.gz
+ 86094812089c31ad7a314ccf26f778b2cf80d8e8712224422250933ac88531ad 110 main/binary-amd64/Release
+ 3ac2aeda722c60f49e1563f007ed815a3e6ddf245c554e2e5000f66afb8ce694 695 main/binary-arm64/Packages
+ 593e9167a44c5838acd39d7a3f1a41d17a84c149cdb65d45b07fda622dd6e09a 489 main/binary-arm64/Packages.gz
+ dec234feb121ad6aceb01d6affd3db115a8de030b56e85eee555019240700b17 110 main/binary-arm64/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEEaRKjOXz5c1mFergvngboY9UNdUEFAmoUoUgACgkQngboY9UN
+dUFwNA//a60c5Yrw11Vb315dSFEqebnH/pdNa2mw9MQAG1Klfl4WmIwi/c4MWoEr
+J6tQuzV/gl+POXCtu0xRu4Q1mxO6I+yAeyWxek9kQXW1XTjeov6wyLyiJqQRC1NW
+NTSYoEr4LyCGS2GYpGM+EqJg9aLxq+jcvcE1Q64uR8G57R6Us6/JSXu/oteJKhqm
+AFzvqHesytrsdyo+TvAgJeGnQSoekjBAiuIkbrnJDaV6gc3KcObXpG1ZonfaKc+C
+RAnYki3LumyWYT1qSfoNKkLeaOf5ggf8UOpYlLwrNWOL5NDNlZPEsaLN/xWRxycs
+cTx4IHx+ZfsVYrkwfyFzIm6EoNvAogJ/70qCc4i4mLDjRypJ1giZROVj22MxdTqZ
++uFhOScR8PYvCQdYhJo84QDt4c8KRorL+ZGhe7mThQJLSGkuO/W6HWLisk8DBaxz
+M4FaeJ9StPwKmdMOMYebFzkmAjR1r5mzuL6k2X5nqsPvpl1ZXPAhBJdYzZuG7r32
+fuS99EWCVUnCLkdOrYOgEm+lq6NGVOb8VnEwU6qfN5VizBM7EbgklfN4SxYuC+MG
+kYjzON7UbRAg+xltc8wAQ1gfHhGWOwk7arJHMLzk27pL45aBd4ZBn4FrHrL1aY2g
+OPvaoHLiI6Lh+ZqXAgqBM5m5qNct/zs6kI4cshEYpke+hseoVXw=
+=g2wA
+-----END PGP SIGNATURE-----
