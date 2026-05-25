@@ -53,7 +53,7 @@ jobs:
           Codename: stable
           Suite: stable
           Components: main
-          Architectures: amd64 arm64 all
+          Architectures: amd64 arm64
           Description: smfc APT repository
           SignWith: 9E06E863D50D7541
           EOF
