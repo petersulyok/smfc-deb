@@ -3,4 +3,4 @@ Component: main
 Origin: smfc
 Label: smfc
 Architecture: amd64
-Description: smfc APT repository
+Description: smfc DEB repository
