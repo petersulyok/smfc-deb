@@ -6,10 +6,14 @@ This repository hosts the DEB packages for [smfc](https://github.com/petersulyok
 
 Requires Python ≥ 3.10. Supported on:
 
-| Distribution | Version |
-|---|---|
-| Debian | 12 (Bookworm), 13 (Trixie) |
-| Ubuntu | 22.04 LTS (Jammy), 24.04 LTS (Noble), 25.04 (Plucky) |
+| Distribution    | Version                                              |
+|-----------------|------------------------------------------------------|
+| Debian          | 12 (Bookworm), 13 (Trixie), Sid                      |
+| Ubuntu          | 22.04 LTS (Jammy), 24.04 LTS (Noble), 25.04 (Plucky) |
+| Proxmox VE      | 8+                                                   |
+| Linux Mint      | 21+                                                  |
+| Pop!_OS         | 22.04+                                               |
+| Raspberry Pi OS | Bookworm+                                            |
 
 ## Installation
 
