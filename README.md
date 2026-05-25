@@ -1,6 +1,15 @@
-# smfc APT repository
+# smfc DEB repository
 
-This repository hosts the APT (DEB) packages for [smfc](https://github.com/petersulyok/smfc) — a fan controller for SuperMicro servers.
+This repository hosts the DEB packages for [smfc](https://github.com/petersulyok/smfc) — a fan controller for SuperMicro servers.
+
+## Compatible distributions
+
+Requires Python ≥ 3.10. Supported on:
+
+| Distribution | Version |
+|---|---|
+| Debian | 12 (Bookworm), 13 (Trixie) |
+| Ubuntu | 22.04 LTS (Jammy), 24.04 LTS (Noble), 25.04 (Plucky) |
 
 ## Installation
 
