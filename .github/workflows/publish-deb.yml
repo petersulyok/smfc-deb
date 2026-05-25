@@ -59,7 +59,14 @@ jobs:
           EOF
 
       - name: Add package to repository
-        run: reprepro -b . includedeb stable /tmp/in/*.deb
+        run: |
+          VERSION=$(dpkg-deb -f /tmp/in/*.deb Version)
+          if reprepro -b . list stable smfc 2>/dev/null | grep -qE "smfc ${VERSION}$"; then
+            echo "smfc ${VERSION} already in repo; re-exporting metadata"
+            reprepro -b . export stable
+          else
+            reprepro -b . includedeb stable /tmp/in/*.deb
+          fi
 
       - name: Commit and push gh-pages
         run: |
