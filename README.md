@@ -20,7 +20,7 @@ Requires Python ≥ 3.10. Supported on:
 ```bash
 curl -fsSL https://petersulyok.github.io/smfc-deb/smfc-repo.gpg \
   | sudo gpg --dearmor -o /etc/apt/keyrings/smfc-repo.gpg
-echo "deb [signed-by=/etc/apt/keyrings/smfc-repo.gpg] https://petersulyok.github.io/smfc-deb stable main" \
+echo "deb [arch=amd64,arm64 signed-by=/etc/apt/keyrings/smfc-repo.gpg] https://petersulyok.github.io/smfc-deb stable main" \
   | sudo tee /etc/apt/sources.list.d/smfc.list
 sudo apt update && sudo apt install smfc
 ```
