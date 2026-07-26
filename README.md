@@ -18,10 +18,8 @@ Requires Python ≥ 3.10. Supported on:
 ## Installation
 
 ```bash
-curl -fsSL https://petersulyok.github.io/smfc-deb/smfc-repo.gpg \
-  | sudo gpg --dearmor -o /etc/apt/keyrings/smfc-repo.gpg
-echo "deb [arch=amd64,arm64 signed-by=/etc/apt/keyrings/smfc-repo.gpg] https://petersulyok.github.io/smfc-deb stable main" \
-  | sudo tee /etc/apt/sources.list.d/smfc.list
+sudo curl -fsSL https://petersulyok.github.io/smfc-deb/smfc.sources \
+  -o /etc/apt/sources.list.d/smfc.sources
 sudo apt update && sudo apt install smfc
 ```
 
@@ -35,5 +33,5 @@ sudo apt update && sudo apt upgrade smfc
 
 ```bash
 sudo apt remove smfc
-sudo rm /etc/apt/sources.list.d/smfc.list /etc/apt/keyrings/smfc-repo.gpg
+sudo rm /etc/apt/sources.list.d/smfc.sources
 ```

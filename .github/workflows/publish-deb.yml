@@ -46,6 +46,7 @@ jobs:
           if [ ! -f smfc-repo.gpg ]; then
             git show origin/main:smfc-repo.gpg > smfc-repo.gpg
           fi
+          git show origin/main:smfc.sources > smfc.sources
           mkdir -p conf
           cat > conf/distributions << 'EOF'
           Origin: smfc
