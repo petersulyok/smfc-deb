@@ -5,44 +5,44 @@ Origin: smfc
 Label: smfc
 Suite: stable
 Codename: stable
-Date: Sun, 26 Jul 2026 18:15:48 UTC
+Date: Fri, 31 Jul 2026 06:59:48 UTC
 Architectures: amd64 arm64
 Components: main
 Description: smfc DEB repository
 MD5Sum:
- 0c8e9c9848291b7e43e2e13152d2652a 735 main/binary-amd64/Packages
- 2c0a638c9a961f505251222cf276bb09 520 main/binary-amd64/Packages.gz
+ b2f1647c1765dbdf528b7fa6ae936648 735 main/binary-amd64/Packages
+ e3b5ce38fb7ff8c6f1bb3b50eb9f4209 521 main/binary-amd64/Packages.gz
  8751671aec7ddbae3dad456cd0f46059 110 main/binary-amd64/Release
- 0c8e9c9848291b7e43e2e13152d2652a 735 main/binary-arm64/Packages
- 2c0a638c9a961f505251222cf276bb09 520 main/binary-arm64/Packages.gz
+ b2f1647c1765dbdf528b7fa6ae936648 735 main/binary-arm64/Packages
+ e3b5ce38fb7ff8c6f1bb3b50eb9f4209 521 main/binary-arm64/Packages.gz
  d37cdb520d199e42ef981026acf77abc 110 main/binary-arm64/Release
 SHA1:
- 001a9758276ccd85fab5a67fbfd8d961b5b53ab4 735 main/binary-amd64/Packages
- 844547e669c446715b0fa5085556dcc731124236 520 main/binary-amd64/Packages.gz
+ 047d8cea3ace4588d5374d7337e93c89a2c5a821 735 main/binary-amd64/Packages
+ 97515522c87ef454fbb4ca143bb48ae5dec43ae4 521 main/binary-amd64/Packages.gz
  7ac2da989820a1410b7d00aa46c50f7a7a28cad1 110 main/binary-amd64/Release
- 001a9758276ccd85fab5a67fbfd8d961b5b53ab4 735 main/binary-arm64/Packages
- 844547e669c446715b0fa5085556dcc731124236 520 main/binary-arm64/Packages.gz
+ 047d8cea3ace4588d5374d7337e93c89a2c5a821 735 main/binary-arm64/Packages
+ 97515522c87ef454fbb4ca143bb48ae5dec43ae4 521 main/binary-arm64/Packages.gz
  a33fc6e53b6029bfcd4de78e4aec714d0bb931c3 110 main/binary-arm64/Release
 SHA256:
- 34af6a06bdb91d4786920f5ae029766e4d2ecfcbb7c6988f346ed7ca30b88e4d 735 main/binary-amd64/Packages
- 28d9494cfb95b170d3141c8f44bd0bd41644d77838dd25a37ce0b708f05d2a9d 520 main/binary-amd64/Packages.gz
+ e4108324184bf29502d6921d9f3b7f2b8b670ed033d23c634293797244bca42c 735 main/binary-amd64/Packages
+ 8eeb51e4560437e6950247da1292dbda81bdb4f754722b6032abd1a7bf30f8d4 521 main/binary-amd64/Packages.gz
  3947ca2a469942671a2cda137d4918f535a57dd25266925a30a37c5d1262ec52 110 main/binary-amd64/Release
- 34af6a06bdb91d4786920f5ae029766e4d2ecfcbb7c6988f346ed7ca30b88e4d 735 main/binary-arm64/Packages
- 28d9494cfb95b170d3141c8f44bd0bd41644d77838dd25a37ce0b708f05d2a9d 520 main/binary-arm64/Packages.gz
+ e4108324184bf29502d6921d9f3b7f2b8b670ed033d23c634293797244bca42c 735 main/binary-arm64/Packages
+ 8eeb51e4560437e6950247da1292dbda81bdb4f754722b6032abd1a7bf30f8d4 521 main/binary-arm64/Packages.gz
  0c789082d54b15b95106876f9117d69eb710a56c7cdfd2411bd9315a1d21e8f1 110 main/binary-arm64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEaRKjOXz5c1mFergvngboY9UNdUEFAmpmTtQACgkQngboY9UN
-dUHDJg//Vx0ibt4JZOhLRpqJWJu6TYLu81hSWGYz/Q14xk/Au7virbav9bATapL8
-GjKcSXuNEpMkGQB8BUlSCZqTGp3WDPc5P8W3MtQEHNM6fs3GZZmIxyZM5Xsyk7Lt
-X6APt0GTllHqhfr/dpD0WkgDsDxEMfkZMp2z4Xs1ydtf8kjABvMP8MHbBBmDtJ9B
-j6Bq3xXGjdDuuW7xIU0BxU+vMGJqINGIIF9xuSakd3/HFvzLxZa+l138KZR292Mx
-kb4+dl53Ayfa2P6RC3goPX1pzk0il6/arYpJFeIg4kzAI0wf/cMLF/61eqM/FY2s
-ciDBodkcG3ADqe9l2tBpQTU8s0NkVUFhVkHzoNFtbiY/gRre0rrQLGJczITzAyFv
-7LFKmDjMq16/D38wFjrHrj74qNXUoaR20p1/T1OCbEbsY4hleDdF/sEuvC0ceKhq
-YQGYbVILlPZ//FZl3O3dKHBJ5+T1Pt/zxM47BEKnp0sluPpCISw6sbhnv9Bc793Q
-ziiDRFSuRl1l9TRVX+IJ0HkXK1ZaDPbCYHGW9Xct8G3mbYcOeV/LxisMCVlPyeXT
-PAZBCKCGTU5l4VC6B8Y9m9yMbhnz9cTWaJGXXWTCH0MkYciR80Qz8yQnOY4Uvlhe
-aS5gmoCzyviyzFj+S2bbRsYRU2gXOjYcAFOcev8QwFS/fN+P6WQ=
-=mkCz
+iQIzBAEBCgAdFiEEaRKjOXz5c1mFergvngboY9UNdUEFAmpsR+QACgkQngboY9UN
+dUGcKxAApadIGYHWe7P8GsOrcR/JhedQF5olHLYI62/UZCaxo+wpNiLa0jFOiGzO
+lws62JLyQrip/Y8xDmjUsrccdRIPxoEmlVQf5jvrg+fz2GOkBBj/9pbu+aZkXqOX
+HpTSv73tOZEPVwu7G1oYRktFOMPNQ+zH86ezEsiUhQi2WLEZvGwQ/0rC42RymSBy
+5UoPVbD66/iGBn5dFR2MaymPHH7YV7EcmB97JyA7MdyVhdeEPz5D3nLGegUtOjys
+UB77lgunJrNQsISrzAfT/IG1UUfRi2svP367ejKgjOb40CQ5BWzEW2gfeW3FG1jt
+fYaAlW/Ve4tYtU/OX5LofpxpjIJDBQ1IqiPwyRP2ALuPYUV+XIiKMfCOMwE8PhPp
+eND8zy0EmiDh9vUM63f7FnxXwUnhAGzrIx8tWkjdYP9i9/lG9u+kAKahoStpcbaw
+9eD3ryd2YUAktL7YWdy6KRN6tEA/mnYZyjK06GH84TRzIX7DK2Zsj0PFPDd7peGI
+ctCt2aWhP3XwDtmsn/x2cy1Aj2noXWsTD4y+ThKRuFVi5/a/UEXvTWEvlNNBktul
+B0X2mAvflwizSR4SEfFE00Zcesrs1omhkOreRE95wE1Q0jlEF4zE2IoTKXi6I6my
+Pl0iT7FA3QAXS+wODbCh1DrfTxEhmlzVW5ijq9axJ3cYQIl/XOw=
+=5+24
 -----END PGP SIGNATURE-----
