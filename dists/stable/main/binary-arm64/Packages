@@ -1,5 +1,5 @@
 Package: smfc
-Version: 6.4.2
+Version: 6.4.3
 Architecture: all
 Maintainer: Peter Sulyok <peter@sulyok.net>
 Installed-Size: 542
@@ -9,11 +9,11 @@ Suggests: nvidia-utils-server | nvidia-utils
 Homepage: https://github.com/petersulyok/smfc
 Priority: optional
 Section: utils
-Filename: pool/main/s/smfc/smfc_6.4.2_all.deb
-Size: 105776
-SHA256: f3f120dca0858fd3d8d0a2e8b189d452ea5e4861625b01a420173c03ad84a76d
-SHA1: 23fa8bc18b7481adaad3e4521ad9e76c7effed4e
-MD5sum: 48646de918d4e173223bbdd6af7865fc
+Filename: pool/main/s/smfc/smfc_6.4.3_all.deb
+Size: 105872
+SHA256: adf04bf816432b129d4a54690db1bf663385831a44d07389fc5bcd4b9bfbbf8b
+SHA1: 44906d47178b1488eb0a0be13ed6cb831bad924d
+MD5sum: 867f2112f8441e462e066cbfce959aae
 Description: Supermicro Fan Control for Linux
  smfc is a systemd service to control fans in Linux on Supermicro X9,
  X10-X13/H10-H14, X10QBi and X14 (experimental) motherboards with
