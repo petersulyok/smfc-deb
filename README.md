@@ -1,6 +1,6 @@
 # smfc DEB repository
 
-This repository hosts the DEB packages for [smfc](https://github.com/petersulyok/smfc) — a fan controller for SuperMicro servers.
+This repository hosts the DEB packages for [smfc](https://github.com/petersulyok/smfc) — a fan controller for SuperMicro (home) servers.
 
 ## Compatible distributions
 
@@ -13,7 +13,6 @@ Requires Python ≥ 3.11. Supported on:
 | Proxmox VE      | 8+                               |
 | Linux Mint      | 22+                              |
 | Pop!_OS         | 24.04+                           |
-| Raspberry Pi OS | Bookworm+                        |
 
 Ubuntu 22.04, Linux Mint 21 and Pop!_OS 22.04 are not supported, because their Python 3.10 is too old.
 
